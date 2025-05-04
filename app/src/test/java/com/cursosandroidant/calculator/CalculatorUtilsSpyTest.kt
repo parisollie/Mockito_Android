@@ -10,7 +10,7 @@ import org.mockito.Mockito.verify
 import org.mockito.Spy
 import org.mockito.junit.MockitoJUnitRunner
 
-//V-56,Paso 1.6
+//V-56,Paso 1.6, con spy funciona internamente
 @RunWith(MockitoJUnitRunner::class)
 class CalculatorUtilsSpyTest {
     //Spy algunas clases como operations funcionen como si fueran reales
